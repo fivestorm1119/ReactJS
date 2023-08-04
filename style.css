@@ -1,0 +1,12 @@
+body {
+    margin: 0 !important;
+}
+
+
+.banner {
+    /* border: 1px solid red;
+    height: 500px;
+    width: 500px; */
+    height: 500px;
+    background: url('./banner.jpg') center center no-repeat;
+}
